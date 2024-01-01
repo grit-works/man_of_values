@@ -3,5 +3,5 @@
 I am going to be a "man of values", whom everyone will respect.
 ## Index
 1. [Goals of Life](goals_of_life.md)
-2. [Targets Long term](targets.md)
+2. [Targets Long term](long_term_targets.md)
 3. 
